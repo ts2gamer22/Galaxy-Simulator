@@ -69,7 +69,7 @@ See `.kiro/specs/svelte-galaxy-simulation/tasks.md` for detailed implementation 
 
 ## Live Demo
 
-Check out the live demo on GitHub Pages: [Svelte Galaxy Simulation](https://yourusername.github.io/svelte-galaxy-simulation/)
+Check out the live demo on GitHub Pages: [Svelte Galaxy Simulation] (https://github.com/ts2gamer22/Galaxy-Simulator)
 
 ## Deployment
 
