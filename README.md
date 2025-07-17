@@ -69,8 +69,9 @@ See `.kiro/specs/Galaxy-Simulator/tasks.md` for detailed implementation plan.
 
 ## Live Demo
 
-Check out the live demo on GitHub Pages: [Svelte Galaxy Simulation] (https://github.com/ts2gamer22/Galaxy-Simulator)
+Check out the live demo: 
+https://ts2gamer22.github.io/Galaxy-Simulator/
 
-## Deployment
+## Deploymento
 
 This project is set up to automatically deploy to GitHub Pages when changes are pushed to the main branch. The deployment is handled by GitHub Actions.
