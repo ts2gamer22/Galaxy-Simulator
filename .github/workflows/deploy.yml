@@ -22,7 +22,13 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build
+        run: |
+          echo "Building with base path: /Galaxy-Simulator"
+          export NODE_ENV=production
+          npm run build
+          ls -la build
+          # Create a .nojekyll file to prevent GitHub from using Jekyll
+          touch build/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4

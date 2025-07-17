@@ -20,7 +20,7 @@ const config = {
 		
 		// Set the base path if your site is not at the root of the domain
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/svelte-galaxy-simulation' : ''
+			base: process.env.NODE_ENV === 'production' ? '/Galaxy-Simulator' : ''
 		}
 	}
 };

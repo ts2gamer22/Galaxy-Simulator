@@ -65,7 +65,7 @@ npm run build
 ✅ Task 9: Test suite
 ✅ Task 10: Performance optimizations and polish
 
-See `.kiro/specs/svelte-galaxy-simulation/tasks.md` for detailed implementation plan.
+See `.kiro/specs/Galaxy-Simulator/tasks.md` for detailed implementation plan.
 
 ## Live Demo
 
